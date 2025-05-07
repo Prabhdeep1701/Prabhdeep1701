@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Prabhdeep Singh 👋</h1>
+<h3 align="center">🚀 Backend Developer | 💻 Tech Enthusiast | 🎓 CSE @ Bennett University</h3>
 
-<!--
-**Prabhdeep1701/Prabhdeep1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌐 **About Me**  
+I'm a passionate **Backend Developer** focused on building **efficient**, **secure**, and **scalable systems**. I love working with server-side logic, designing APIs, and diving deep into privacy-focused systems and emerging tech like blockchain. Currently pursuing my **B.Tech in Computer Science Engineering** at **Bennett University**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **Tech Stack & Skills**
+```yaml
+Languages: [Python, Java, C, Rust (basic)]
+Web Dev: [HTML, CSS, JavaScript, React (basics)]
+Frameworks/Tools: [Flask, Django, PyQt6, NumPy, Pandas, Matplotlib, BeautifulSoup, Selenium]
+Networking: [TCP/IP, HTTP/S Protocols]
+Other: [Web Scraping, API Development, Figma, OS (Windows, Linux, macOS)]
