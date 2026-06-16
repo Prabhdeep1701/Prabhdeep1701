@@ -25,7 +25,7 @@ class PrabhdeepSingh:
         self.role        = "Software Engineer"
         self.university  = "Bennett University · CSE 2024–2028"
         self.location    = "Greater Noida, India"
-        self.currently   = "SDE Intern @ Lemma"
+        self.currently   = "IT Intern @Orient Electric"
         self.focus       = ["Backend Engineering", "Web Security", "Privacy Systems"]
         self.open_to     = "Interesting problems in backend, security & infra"
         self.languages   = ["English", "Hindi"]
