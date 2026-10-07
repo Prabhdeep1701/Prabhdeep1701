@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhdeep-singh-313359242/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhdeep1701@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhdeep1701)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-%2300cc90.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://secure-quiz-platform2.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20-%2300cc90.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-pi-ten-1w59qqcw3z.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
