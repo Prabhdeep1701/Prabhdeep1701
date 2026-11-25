@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="320" viewBox="0 0 580 320">
+<defs><filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff2a6d"/><stop offset="1" stop-color="#05d9e8"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2a6d" stop-opacity="0"/><stop offset=".5" stop-color="#ff2a6d" stop-opacity=".1"/><stop offset="1" stop-color="#ff2a6d" stop-opacity="0"/></linearGradient>
+<clipPath id="cc"><rect x="2" y="2" width="576" height="316" rx="14"/></clipPath></defs>
+<style>
+.gc{animation:gc 4s steps(1) infinite}
+.gp{animation:gp 4s steps(1) infinite}
+.fl{animation:fl 4s linear infinite}
+@keyframes gc{0%,100%{transform:translate(-2px,0)}86%{transform:translate(-5px,-2px)}88%{transform:translate(4px,2px)}90%{transform:translate(-5px,0)}92%{transform:translate(-2px,0)}}
+@keyframes gp{0%,100%{transform:translate(2px,0)}86%{transform:translate(5px,2px)}88%{transform:translate(-4px,-2px)}90%{transform:translate(4px,0)}92%{transform:translate(2px,0)}}
+@keyframes fl{0%,85%,100%{opacity:1}87%{opacity:.5}88%{opacity:1}90%{opacity:.25}91%{opacity:1}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+.run{animation:run 5s linear infinite}@keyframes run{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+.ring{animation:ring 2.4s ease-out infinite}@keyframes ring{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.4);opacity:0}}
+.sweep{animation:rot 2.5s linear infinite}.spin{animation:rot 10s linear infinite}@keyframes rot{to{transform:rotate(360deg)}}
+.flow{animation:flow 1s linear infinite}@keyframes flow{to{stroke-dashoffset:-20}}
+.hp{animation:hp 2.1s ease-in-out infinite}@keyframes hp{0%,100%{opacity:.4}50%{opacity:1}}
+.ty{animation:ty 2s steps(6) infinite}@keyframes ty{0%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+.draw{stroke-dasharray:100;animation:draw 2.6s ease-in-out infinite}@keyframes draw{0%{stroke-dashoffset:100}45%,80%{stroke-dashoffset:0}100%{stroke-dashoffset:-100}}
+.sw{animation:sw 4s linear infinite}@keyframes sw{from{transform:translateX(-200px)}to{transform:translateX(630px)}}
+</style>
+<rect x="2" y="2" width="576" height="316" rx="14" fill="#0a0612" stroke="#2a1840" stroke-width="2"/>
+<g clip-path="url(#cc)"><rect width="160" height="320" fill="url(#scan)" class="sw"/></g>
+<rect x="2" y="2" width="576" height="316" rx="14" fill="none" stroke="url(#bd)" stroke-width="2.5" pathLength="1000" stroke-dasharray="110 890" class="run" filter="url(#glow)"/>
+<text x="24" y="34" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#05d9e8" letter-spacing="2.5">QUEST_01</text>
+<circle cx="484" cy="30" r="4" fill="#ff2a6d" class="blink"/>
+<text x="556" y="34" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#ff2a6d" text-anchor="end" letter-spacing="1.5">CLEARED</text>
+<circle cx="500" cy="90" r="30" fill="none" stroke="#ff2a6d" stroke-width="2" class="ring" style="transform-origin:500px 90px"/>
+<circle cx="500" cy="90" r="30" fill="none" stroke="#05d9e8" stroke-width="2" class="ring" style="transform-origin:500px 90px;animation-delay:-1.2s"/>
+<g stroke="#ff2a6d" stroke-width="3.5" fill="none" filter="url(#glow)"><path d="M488 82V72a12 12 0 0 1 24 0V82"/>
+<rect x="480" y="82" width="40" height="30" rx="5" fill="#ff2a6d" fill-opacity=".15"/></g><circle cx="500" cy="96" r="4" fill="#05d9e8" class="blink"/>
+<g letter-spacing="1"><text x="24" y="84" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#05d9e8" class="gc" opacity=".9">WRAITH</text><text x="24" y="84" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#ff2a6d" class="gp" opacity=".9">WRAITH</text><text x="24" y="84" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#ffffff" class="fl" filter="url(#glow)">WRAITH</text></g>
+<text x="24" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#ff2a6d">dark web messenger // E2E encrypted</text>
+<text x="24" y="150" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9c3d9"><tspan fill="#ff2a6d">▸ </tspan>end-to-end encryption via PyCryptodome</text><text x="24" y="177" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9c3d9"><tspan fill="#ff2a6d">▸ </tspan>real-time messaging over Flask-SocketIO</text><text x="24" y="204" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9c3d9"><tspan fill="#ff2a6d">▸ </tspan>built for dark web browsers + PyQt6 desktop</text>
+<rect x="24" y="236" width="135" height="26" rx="13" fill="#ff2a6d" fill-opacity=".1" stroke="#ff2a6d" stroke-opacity=".7"/><text x="91" y="253.5" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#ff2a6d" text-anchor="middle">Flask-SocketIO</text><rect x="166.60000000000002" y="236" width="119" height="26" rx="13" fill="#ff2a6d" fill-opacity=".1" stroke="#ff2a6d" stroke-opacity=".7"/><text x="226" y="253.5" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#ff2a6d" text-anchor="middle">PyCryptodome</text><rect x="293.40000000000003" y="236" width="64" height="26" rx="13" fill="#ff2a6d" fill-opacity=".1" stroke="#ff2a6d" stroke-opacity=".7"/><text x="325" y="253.5" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#ff2a6d" text-anchor="middle">PyQt6</text>
+<line x1="24" y1="280" x2="556" y2="280" stroke="#2a1840" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="24" y="302" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#6b5a85" letter-spacing="1.5">// REPO</text>
+<text x="556" y="302" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#ff2a6d" text-anchor="end" letter-spacing="1.5">PRESS ENTER <tspan class="blink">▸</tspan></text>
+</svg>

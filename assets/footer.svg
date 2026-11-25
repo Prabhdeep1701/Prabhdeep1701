@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<defs><filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="gnd"><rect y="150" width="1200" height="80"/></clipPath>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a0612" stop-opacity=".9"/><stop offset=".5" stop-color="#0a0612" stop-opacity="0"/><stop offset="1" stop-color="#0a0612" stop-opacity=".2"/></linearGradient></defs>
+<style>
+.gc{animation:gc 4s steps(1) infinite}
+.gp{animation:gp 4s steps(1) infinite}
+.fl{animation:fl 4s linear infinite}
+@keyframes gc{0%,100%{transform:translate(-2px,0)}86%{transform:translate(-12px,-2px)}88%{transform:translate(7px,2px)}90%{transform:translate(-5px,0)}92%{transform:translate(-2px,0)}}
+@keyframes gp{0%,100%{transform:translate(2px,0)}86%{transform:translate(11px,2px)}88%{transform:translate(-8px,-2px)}90%{transform:translate(4px,0)}92%{transform:translate(2px,0)}}
+@keyframes fl{0%,85%,100%{opacity:1}87%{opacity:.5}88%{opacity:1}90%{opacity:.25}91%{opacity:1}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+.grid line{stroke:#b967ff;stroke-width:1.2;opacity:.5}
+.tp{animation:tp 7s steps(19) infinite}@keyframes tp{0%{transform:translateX(0)}25%,90%{transform:translateX(1000px)}100%{transform:translateX(0)}}
+.hl{animation:hl 3s cubic-bezier(.6,0,1,.4) infinite both}@keyframes hl{0%{transform:translateY(0);opacity:0}20%{opacity:.7}100%{transform:translateY(80px);opacity:.8}}
+</style>
+<rect width="1200" height="230" rx="16" fill="#0a0612"/>
+<g clip-path="url(#gnd)"><g class="grid"><line x1="600" y1="150" x2="-1800" y2="230"/><line x1="600" y1="150" x2="-1650" y2="230"/><line x1="600" y1="150" x2="-1500" y2="230"/><line x1="600" y1="150" x2="-1350" y2="230"/><line x1="600" y1="150" x2="-1200" y2="230"/><line x1="600" y1="150" x2="-1050" y2="230"/><line x1="600" y1="150" x2="-900" y2="230"/><line x1="600" y1="150" x2="-750" y2="230"/><line x1="600" y1="150" x2="-600" y2="230"/><line x1="600" y1="150" x2="-450" y2="230"/><line x1="600" y1="150" x2="-300" y2="230"/><line x1="600" y1="150" x2="-150" y2="230"/><line x1="600" y1="150" x2="0" y2="230"/><line x1="600" y1="150" x2="150" y2="230"/><line x1="600" y1="150" x2="300" y2="230"/><line x1="600" y1="150" x2="450" y2="230"/><line x1="600" y1="150" x2="600" y2="230"/><line x1="600" y1="150" x2="750" y2="230"/><line x1="600" y1="150" x2="900" y2="230"/><line x1="600" y1="150" x2="1050" y2="230"/><line x1="600" y1="150" x2="1200" y2="230"/><line x1="600" y1="150" x2="1350" y2="230"/><line x1="600" y1="150" x2="1500" y2="230"/><line x1="600" y1="150" x2="1650" y2="230"/><line x1="600" y1="150" x2="1800" y2="230"/><line x1="600" y1="150" x2="1950" y2="230"/><line x1="600" y1="150" x2="2100" y2="230"/><line x1="600" y1="150" x2="2250" y2="230"/><line x1="600" y1="150" x2="2400" y2="230"/><line x1="600" y1="150" x2="2550" y2="230"/><line x1="600" y1="150" x2="2700" y2="230"/><line x1="600" y1="150" x2="2850" y2="230"/><line x1="600" y1="150" x2="3000" y2="230"/><line x1="0" y1="150" x2="1200" y2="150" class="hl" style="animation-delay:-0.0s"/><line x1="0" y1="150" x2="1200" y2="150" class="hl" style="animation-delay:-0.5s"/><line x1="0" y1="150" x2="1200" y2="150" class="hl" style="animation-delay:-1.0s"/><line x1="0" y1="150" x2="1200" y2="150" class="hl" style="animation-delay:-1.5s"/><line x1="0" y1="150" x2="1200" y2="150" class="hl" style="animation-delay:-2.0s"/><line x1="0" y1="150" x2="1200" y2="150" class="hl" style="animation-delay:-2.5s"/></g><rect y="150" width="1200" height="80" fill="url(#fade)"/></g>
+<line x1="0" y1="150" x2="1200" y2="150" stroke="#b967ff" stroke-width="2" filter="url(#glow)"/>
+<g letter-spacing="5"><text x="600" y="76" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="900" text-anchor="middle"  fill="#05d9e8" class="gc" opacity=".9">END_OF_TRANSMISSION</text><text x="600" y="76" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="900" text-anchor="middle"  fill="#ff2a6d" class="gp" opacity=".9">END_OF_TRANSMISSION</text><text x="600" y="76" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="900" text-anchor="middle"  fill="#ffffff" class="fl" filter="url(#glow)">END_OF_TRANSMISSION</text></g>
+<rect x="90" y="20" width="1020" height="72" fill="#0a0612" class="tp"/>
+<text x="600" y="114" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#05d9e8" text-anchor="middle">got something hard to break? let's build it.</text>
+<text x="600" y="138" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#ff2a6d" text-anchor="middle" letter-spacing="3" class="blink">[ CONNECTION OPEN ]</text>
+</svg>

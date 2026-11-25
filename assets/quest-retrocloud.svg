@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="320" viewBox="0 0 580 320">
+<defs><filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b967ff"/><stop offset="1" stop-color="#05d9e8"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b967ff" stop-opacity="0"/><stop offset=".5" stop-color="#b967ff" stop-opacity=".1"/><stop offset="1" stop-color="#b967ff" stop-opacity="0"/></linearGradient>
+<clipPath id="cc"><rect x="2" y="2" width="576" height="316" rx="14"/></clipPath></defs>
+<style>
+.gc{animation:gc 4s steps(1) infinite}
+.gp{animation:gp 4s steps(1) infinite}
+.fl{animation:fl 4s linear infinite}
+@keyframes gc{0%,100%{transform:translate(-2px,0)}86%{transform:translate(-5px,-2px)}88%{transform:translate(4px,2px)}90%{transform:translate(-5px,0)}92%{transform:translate(-2px,0)}}
+@keyframes gp{0%,100%{transform:translate(2px,0)}86%{transform:translate(5px,2px)}88%{transform:translate(-4px,-2px)}90%{transform:translate(4px,0)}92%{transform:translate(2px,0)}}
+@keyframes fl{0%,85%,100%{opacity:1}87%{opacity:.5}88%{opacity:1}90%{opacity:.25}91%{opacity:1}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+.run{animation:run 5s linear infinite}@keyframes run{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+.ring{animation:ring 2.4s ease-out infinite}@keyframes ring{0%{transform:scale(.6);opacity:.9}100%{transform:scale(1.4);opacity:0}}
+.sweep{animation:rot 2.5s linear infinite}.spin{animation:rot 10s linear infinite}@keyframes rot{to{transform:rotate(360deg)}}
+.flow{animation:flow 1s linear infinite}@keyframes flow{to{stroke-dashoffset:-20}}
+.hp{animation:hp 2.1s ease-in-out infinite}@keyframes hp{0%,100%{opacity:.4}50%{opacity:1}}
+.ty{animation:ty 2s steps(6) infinite}@keyframes ty{0%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+.draw{stroke-dasharray:100;animation:draw 2.6s ease-in-out infinite}@keyframes draw{0%{stroke-dashoffset:100}45%,80%{stroke-dashoffset:0}100%{stroke-dashoffset:-100}}
+.sw{animation:sw 4s linear infinite}@keyframes sw{from{transform:translateX(-200px)}to{transform:translateX(630px)}}
+</style>
+<rect x="2" y="2" width="576" height="316" rx="14" fill="#0a0612" stroke="#2a1840" stroke-width="2"/>
+<g clip-path="url(#cc)"><rect width="160" height="320" fill="url(#scan)" class="sw"/></g>
+<rect x="2" y="2" width="576" height="316" rx="14" fill="none" stroke="url(#bd)" stroke-width="2.5" pathLength="1000" stroke-dasharray="110 890" class="run" filter="url(#glow)"/>
+<text x="24" y="34" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#05d9e8" letter-spacing="2.5">QUEST_04</text>
+<circle cx="484" cy="30" r="4" fill="#b967ff" class="blink"/>
+<text x="556" y="34" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#b967ff" text-anchor="end" letter-spacing="1.5">CLEARED</text>
+<line x1="500" y1="54" x2="464" y2="108" stroke="#05d9e8" stroke-width="2" stroke-dasharray="4 6" class="flow"/><line x1="464" y1="108" x2="536" y2="108" stroke="#05d9e8" stroke-width="2" stroke-dasharray="4 6" class="flow"/><line x1="536" y1="108" x2="500" y2="54" stroke="#05d9e8" stroke-width="2" stroke-dasharray="4 6" class="flow"/><rect x="491" y="45" width="18" height="18" rx="3" fill="#b967ff" fill-opacity=".2" stroke="#b967ff" stroke-width="2.5" class="hp" style="animation-delay:-0.0s" filter="url(#glow)"/><rect x="455" y="99" width="18" height="18" rx="3" fill="#b967ff" fill-opacity=".2" stroke="#b967ff" stroke-width="2.5" class="hp" style="animation-delay:-0.7s" filter="url(#glow)"/><rect x="527" y="99" width="18" height="18" rx="3" fill="#b967ff" fill-opacity=".2" stroke="#b967ff" stroke-width="2.5" class="hp" style="animation-delay:-1.4s" filter="url(#glow)"/>
+<g letter-spacing="1"><text x="24" y="84" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#05d9e8" class="gc" opacity=".9">RetroCloud</text><text x="24" y="84" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#b967ff" class="gp" opacity=".9">RetroCloud</text><text x="24" y="84" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#ffffff" class="fl" filter="url(#glow)">RetroCloud</text></g>
+<text x="24" y="110" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#b967ff">distributed storage // old laptops -&gt; cloud</text>
+<text x="24" y="150" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9c3d9"><tspan fill="#b967ff">▸ </tspan>legacy hardware reborn as storage nodes</text><text x="24" y="177" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9c3d9"><tspan fill="#b967ff">▸ </tspan>E2E encryption + plausible deniability</text><text x="24" y="204" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9c3d9"><tspan fill="#b967ff">▸ </tspan>reachable anywhere via encrypted tunnels</text>
+<rect x="24" y="236" width="64" height="26" rx="13" fill="#b967ff" fill-opacity=".1" stroke="#b967ff" stroke-opacity=".7"/><text x="56" y="253.5" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#b967ff" text-anchor="middle">Flask</text><rect x="95.5" y="236" width="79" height="26" rx="13" fill="#b967ff" fill-opacity=".1" stroke="#b967ff" stroke-opacity=".7"/><text x="135" y="253.5" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#b967ff" text-anchor="middle">pyngrok</text><rect x="182.8" y="236" width="48" height="26" rx="13" fill="#b967ff" fill-opacity=".1" stroke="#b967ff" stroke-opacity=".7"/><text x="207" y="253.5" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#b967ff" text-anchor="middle">E2E</text>
+<line x1="24" y1="280" x2="556" y2="280" stroke="#2a1840" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="24" y="302" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#6b5a85" letter-spacing="1.5">// REPO</text>
+<text x="556" y="302" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#b967ff" text-anchor="end" letter-spacing="1.5">PRESS ENTER <tspan class="blink">▸</tspan></text>
+</svg>

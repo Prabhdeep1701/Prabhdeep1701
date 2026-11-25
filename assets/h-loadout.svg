@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84">
+<defs><filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>
+.gc{animation:gc 4s steps(1) infinite}
+.gp{animation:gp 4s steps(1) infinite}
+.fl{animation:fl 4s linear infinite}
+@keyframes gc{0%,100%{transform:translate(-2px,0)}86%{transform:translate(-12px,-2px)}88%{transform:translate(7px,2px)}90%{transform:translate(-5px,0)}92%{transform:translate(-2px,0)}}
+@keyframes gp{0%,100%{transform:translate(2px,0)}86%{transform:translate(11px,2px)}88%{transform:translate(-8px,-2px)}90%{transform:translate(4px,0)}92%{transform:translate(2px,0)}}
+@keyframes fl{0%,85%,100%{opacity:1}87%{opacity:.5}88%{opacity:1}90%{opacity:.25}91%{opacity:1}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+.pl{animation:pl 2.6s linear infinite}@keyframes pl{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+</style>
+<text x="4" y="46" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" fill="#ff2a6d" letter-spacing="1">03</text>
+<line x1="34" y1="26" x2="34" y2="70" stroke="#f9f002" stroke-width="2"/>
+<g letter-spacing="3"><text x="52" y="48" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#05d9e8" class="gc" opacity=".9">LOADOUT</text><text x="52" y="48" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#ff2a6d" class="gp" opacity=".9">LOADOUT</text><text x="52" y="48" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" text-anchor="start"  fill="#ffffff" class="fl" filter="url(#glow)">LOADOUT</text></g>
+<text x="54" y="74" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#6b5a85" letter-spacing="1">// equipped gear</text>
+<line x1="266" y1="36" x2="1180" y2="36" stroke="#2a1840" stroke-width="2"/>
+<line x1="266" y1="36" x2="1180" y2="36" stroke="#f9f002" stroke-width="2.5" pathLength="100" stroke-dasharray="10 90" class="pl" filter="url(#glow)"/>
+<rect x="1182" y="30" width="12" height="12" fill="#f9f002" transform="rotate(45 1188 36)" class="blink"/>
+</svg>
