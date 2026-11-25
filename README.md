@@ -1,223 +1,125 @@
-<div align="center">
+<!-- ═══════════════════════════ HERO ═══════════════════════════ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00cc90,100:b060f0&height=200&section=header&text=prabhdeep.exe&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=backend%20%E2%80%A2%20security%20%E2%80%A2%20privacy-first%20infra&descAlignY=60&descSize=18" width="100%"/> <a href="https://github.com/Prabhdeep1701"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=00CC90&center=true&vCenter=true&width=700&lines=%3E+building+things+that+are+hard+to+break+%F0%9F%94%92;%3E+IT+Intern+%40+Orient+Electric+%E2%9A%A1;%3E+ex-SDE+Intern+%40+Lemma+%F0%9F%A7%A0;%3E+E2E+encryption+enjoyer+%F0%9F%95%B6%EF%B8%8F;%3E+arch+btw+%F0%9F%90%A7" alt="typing intro"/> </a> <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<a href="https://portfolio-pi-ten-1w59qqcw3z.vercel.app/"><img src="https://img.shields.io/badge/✦_portfolio-00cc90?style=for-the-badge&labelColor=0d1117"/></a> <a href="https://www.linkedin.com/in/prabhdeep-singh-313359242/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a> <a href="mailto:prabhdeep1701@gmail.com"><img src="https://img.shields.io/badge/say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a> <img src="https://komarev.com/ghpvc/?username=Prabhdeep1701&color=b060f0&style=for-the-badge&label=👀+VIEWS"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00cc90&height=120&section=header&text=PRABHDEEP%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=twinkling&desc=Software%20Engineer&descAlignY=85&descSize=16&descColor=00cc90" width="100%"/>
+</div> <br/> <!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
+console
+prabhdeep@arch:~$ whoami
+> Prabhdeep Singh — software engineer, security nerd, CSE @ Bennett University ('24–'28)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=00CC90&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Security+Researcher;Backend+%7C+Privacy-First+Infrastructure;SDE+Intern+%40+Lemma+%7C+2025;Python+%7C+Flask+%7C+FastAPI+%7C+Django+%7C+React;Building+things+that+are+hard+to+break+%F0%9F%94%92)](https://github.com/Prabhdeep1701)
+prabhdeep@arch:~$ cat status.txt
+> 📍 Greater Noida, India
+> ⚡ IT Intern @ Orient Electric
+> 🏛️ Deputy Minister of Digital Infrastructure — Bennett University Student Cabinet
+> 🧠 rn learning: blockchain security + zero-knowledge proofs
+> 🤖 side quest: agentic AI workflows (Claude Code, n8n, Langflow)
 
-<br/>
+prabhdeep@arch:~$ echo $VIBE
+> if it can be broken, i want to break it first.
+<!-- ═══════════════════════════ FEATURED ═══════════════════════════ -->
+🏆 the main character builds
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhdeep-singh-313359242/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhdeep1701@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhdeep1701)
-[![Portfolio](https://img.shields.io/badge/Portfolio%20-%2300cc90.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-pi-ten-1w59qqcw3z.vercel.app/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
-</div>
-
----
-
-```python
-class PrabhdeepSingh:
-    def __init__(self):
-        self.role        = "Software Engineer"
-        self.university  = "Bennett University · CSE 2024–2028"
-        self.location    = "Greater Noida, India"
-        self.currently   = "IT Intern @Orient Electric"
-        self.focus       = ["Backend Engineering", "Web Security", "Privacy Systems"]
-        self.open_to     = "Interesting problems in backend, security & infra"
-        self.languages   = ["English", "Hindi"]
-```
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400"/>
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Currently
-
-> ![Active](https://img.shields.io/badge/●_LIVE-SDE%20Intern%20%40%20Lemma-00cc90?style=flat-square&labelColor=0d1117)
-
-- 🔨 **SDE Intern @ Lemma** — AI-powered secure quiz platform with anti-cheating mechanisms · [Live →](https://secure-quiz-platform2.vercel.app)
-- 🏛️ **Deputy Minister of Digital Infrastructure** — Bennett University Student Cabinet
-- 📖 Studying blockchain security & zero-knowledge proof systems
-- 🤖 Exploring agentic AI workflows with Claude Code, n8n, Langflow
-
----
-
-## <img src="https://media.giphy.com/media/QTmfvHGklosYBkI8jX/giphy.gif" width="30"> Technical Arsenal
-
-<div align="center">
-
-### ◈ Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00cc90)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00cc90)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00cc90)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00cc90)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00cc90)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00cc90)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00cc90)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00cc90)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00cc90)
-
-### ◈ Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=4a9ff5)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=4a9ff5)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=4a9ff5)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=4a9ff5)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=4a9ff5)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4a9ff5)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=4a9ff5)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=4a9ff5)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=for-the-badge&logo=socketdotio&logoColor=4a9ff5)
-![PyQt6](https://img.shields.io/badge/PyQt6-0d1117?style=for-the-badge&logo=qt&logoColor=4a9ff5)
-
-### ◈ Security & Networking
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=linux&logoColor=f5a623)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=f5a623)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=f5a623)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=f5a623)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=for-the-badge&logo=cisco&logoColor=f5a623)
-![API Security](https://img.shields.io/badge/API_Security-0d1117?style=for-the-badge&logo=fastapi&logoColor=f5a623)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-0d1117?style=for-the-badge&logo=selenium&logoColor=f5a623)
-![SOCKS5](https://img.shields.io/badge/SOCKS5_Proxy-0d1117?style=for-the-badge&logo=torproject&logoColor=f5a623)
-
-### ◈ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=e060c0)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=e060c0)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=e060c0)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=e060c0)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=e060c0)
-
-### ◈ ML & Data
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=70d050)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=openai&logoColor=70d050)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=70d050)
-
-### ◈ Agentic AI
-![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=b060f0)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=b060f0)
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=b060f0)
-![Langflow](https://img.shields.io/badge/Langflow-0d1117?style=for-the-badge&logo=langchain&logoColor=b060f0)
-![Stitch](https://img.shields.io/badge/Stitch-0d1117?style=for-the-badge&logo=databricks&logoColor=b060f0)
-
-### ◈ Tools & OS
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=aaaaaa)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=aaaaaa)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=aaaaaa)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=aaaaaa)
-![macOS](https://img.shields.io/badge/macOS-0d1117?style=for-the-badge&logo=apple&logoColor=aaaaaa)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=aaaaaa)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-
----
-
-## <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="28"> Projects
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380"/>
-</div>
+[!TIP] each project has a how it works dropdown 👇 click to peek under the hood.
 
 <br/>
+🔐 WRAITH — dark web messenger
 
-<table>
-<tr>
-<td width="50%" valign="top">
+ultra-private, end-to-end encrypted chat for dark web browsers. messages are encrypted on your device and only decrypted by the recipient. the server just relays ciphertext.
 
-### 🔧 RetroWraith
-**Minimal Linux Recovery Environment**
+<p> <img src="https://img.shields.io/badge/Flask--SocketIO-0d1117?style=flat-square&logo=socketdotio&logoColor=00cc90"/> <img src="https://img.shields.io/badge/PyCryptodome-0d1117?style=flat-square&logo=letsencrypt&logoColor=00cc90"/> <img src="https://img.shields.io/badge/PyQt6-0d1117?style=flat-square&logo=qt&logoColor=00cc90"/> <img src="https://img.shields.io/badge/real--time-0d1117?style=flat-square&logo=lightning&logoColor=00cc90"/> </p> <details> <summary><b>⚙️ how it works</b></summary> <br/>
+encrypt locally
+Flask-SocketIO
+real-time push
+decrypt locally
+🧑 sender · PyQt6 app
+🔒 ciphertext
+📡 relay server
+🧑 recipient
+💬 plaintext
+encryption + decryption happen only on the clients (PyCryptodome)
+relay never sees plaintext — it just moves encrypted blobs
+native desktop client built with PyQt6
+</details>
 
-Bootable Arch Linux ISO for offline disk access & system recovery. Terminal-only, ncurses UI, USB portable, zero graphical dependencies.
+<a href="https://github.com/Prabhdeep1701/WRAITH"><img src="https://img.shields.io/badge/→_view_repo-00cc90?style=for-the-badge&logo=github&logoColor=black"/></a>
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0d1117?style=flat-square&logo=archlinux&logoColor=00cc90)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00cc90)
-![ncurses](https://img.shields.io/badge/ncurses-0d1117?style=flat-square&logo=linux&logoColor=00cc90)
+🔧 RetroWraith — minimal linux recovery environment
 
-[📄 Research Paper](#) &nbsp; [🔗 Repository](#)
+a bootable Arch Linux ISO for when your system is cooked. offline disk access and recovery from a USB stick. terminal-only, ncurses UI, zero graphical dependencies. (there's a research paper too 📄)
 
-</td>
-<td width="50%" valign="top">
+<p> <img src="https://img.shields.io/badge/Arch_Linux-0d1117?style=flat-square&logo=archlinux&logoColor=b060f0"/> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=b060f0"/> <img src="https://img.shields.io/badge/ncurses-0d1117?style=flat-square&logo=gnubash&logoColor=b060f0"/> <img src="https://img.shields.io/badge/USB_bootable-0d1117?style=flat-square&logo=usb&logoColor=b060f0"/> </p> <details> <summary><b>⚙️ how it works</b></summary> <br/>
+boot
+💾 USB stick
+🐧 minimal Arch ISO
+🖥️ ncurses TUI
+📂 mount + browse disks
+🛠️ recovery tools
+✅ files rescued
+boots on almost anything, no GUI needed
+whole flow is driven from a keyboard-friendly terminal UI
+fully offline, no network required
+</details>
 
-### 🔐 WRAITH
-**Dark Web Messenger**
+<a href="https://github.com/Prabhdeep1701/RetroWraith"><img src="https://img.shields.io/badge/→_view_repo-b060f0?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/📄_read_the_paper-0d1117?style=for-the-badge"/></a>
 
-Ultra-private E2E encrypted messenger for dark web browsers. Real-time via Flask-SocketIO, PyCryptodome encryption, PyQt6 desktop.
+🛡️ Talon — bug bounty automation
 
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=4a9ff5)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socketdotio&logoColor=4a9ff5)
-![PyQt6](https://img.shields.io/badge/PyQt6-0d1117?style=flat-square&logo=qt&logoColor=4a9ff5)
+recon on autopilot. chains Nmap scanning, BeautifulSoup scraping and Selenium browser automation into one pipeline for full web security assessments.
 
-[🔗 Repository](#)
+<p> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=gnubash&logoColor=f5a623"/> <img src="https://img.shields.io/badge/BeautifulSoup-0d1117?style=flat-square&logo=python&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=f5a623"/> </p> <details> <summary><b>⚙️ how it works</b></summary> <br/>
+🎯 target
+Nmap · ports + services
+BeautifulSoup · crawl +scrape
+Selenium · dynamic pages
+📋 assessment report
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/Prabhdeep1701/Talon"><img src="https://img.shields.io/badge/→_view_repo-f5a623?style=for-the-badge&logo=github&logoColor=black"/></a>
 
-### 🛡️ Talon
-**Bug Bounty Automation Tool**
+💾 RetroCloud — distributed encrypted storage
 
-Automated vuln scanner combining Nmap, BeautifulSoup scraping, and Selenium browser automation for full web security assessments.
+giving old laptops a second life as encrypted cloud nodes. E2E encryption, plausible deniability, and reachable from anywhere through encrypted tunnels.
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=f5a623)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=linux&logoColor=f5a623)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=f5a623)
+<p> <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=e060c0"/> <img src="https://img.shields.io/badge/pyngrok-0d1117?style=flat-square&logo=ngrok&logoColor=e060c0"/> <img src="https://img.shields.io/badge/E2E_encrypted-0d1117?style=flat-square&logo=letsencrypt&logoColor=e060c0"/> <img src="https://img.shields.io/badge/♻️_upcycled_hardware-0d1117?style=flat-square"/> </p> <details> <summary><b>⚙️ how it works</b></summary> <br/>
+encrypted tunnel · ngrok
+📱 you, anywhere
+Flask API
+💻 old laptop node
+💻 old laptop node
+💻 old laptop node
+</details>
 
-[🔗 Repository](#)
+<a href="https://github.com/Prabhdeep1701/RetroCloud"><img src="https://img.shields.io/badge/→_view_repo-e060c0?style=for-the-badge&logo=github&logoColor=black"/></a>
 
-</td>
-<td width="50%" valign="top">
+🧠 Secure Quiz Platform — built @ Lemma
 
-### 💾 RetroCloud
-**Distributed Encrypted Storage**
+AI-powered quiz platform with anti-cheating built in. shipped during my SDE internship at Lemma.
 
-Legacy hardware repurposed as encrypted storage nodes. E2E encryption, plausible deniability, globally accessible via encrypted tunnels.
+<a href="https://secure-quiz-platform2.vercel.app"><img src="https://img.shields.io/badge/🟢_try_it_live-00cc90?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=e060c0)
-![pyngrok](https://img.shields.io/badge/pyngrok-0d1117?style=flat-square&logo=ngrok&logoColor=e060c0)
-
-[🔗 Repository](#)
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="28"> Stats
-
+<br/> <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+🧰 the toolkit
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhdeep1701&theme=tokyonight&hide_border=true&background=0d1117&stroke=0a1f16&fire=00cc90&currStreakNum=00ffb4&ring=00cc90&currStreakLabel=1a4a3a&sideNums=00ffb4&sideLabels=1a4a3a" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Prabhdeep1701&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cc90&icon_color=00cc90&text_color=3a7a6a&ring_color=00cc90" width="49%"/>
+languages<br/> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,rust,html,css&theme=dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhdeep1701&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact&title_color=00cc90&text_color=3a7a6a" width="44%"/>
-&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=Prabhdeep1701&theme=matrix&no-frame=true&column=3&row=2&margin-w=10" width="52%"/>
+frameworks<br/> <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,nextjs,qt&theme=dark" />
 
-</div>
+data + infra<br/> <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,mysql,docker,vercel&theme=dark" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+daily drivers<br/> <img src="https://skillicons.dev/icons?i=arch,linux,apple,git,sklearn,selenium&theme=dark" />
 
----
+security arsenal<br/> <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Kali-0d1117?style=for-the-badge&logo=kalilinux&logoColor=f5a623"/> <img src="https://img.shields.io/badge/SOCKS5-0d1117?style=for-the-badge&logo=torproject&logoColor=f5a623"/>
 
-<div align="center">
+agentic AI<br/> <img src="https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=b060f0"/> <img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=b060f0"/> <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=b060f0"/> <img src="https://img.shields.io/badge/Langflow-0d1117?style=for-the-badge&logo=langchain&logoColor=b060f0"/> <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=openai&logoColor=b060f0"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00cc90&height=100&section=footer&animation=twinkling" width="100%"/>
+</div> <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+📊 the receipts
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=Prabhdeep1701&theme=tokyonight&hide_border=true&background=0d1117&ring=00cc90&fire=b060f0&currStreakNum=00cc90&sideNums=ffffff&currStreakLabel=00cc90&sideLabels=8b949e&dates=8b949e" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhdeep1701&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cc90&text_color=c9d1d9" width="40%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhdeep1701&bg_color=0d1117&color=00cc90&line=b060f0&point=ffffff&area=true&area_color=00cc90&hide_border=true" width="100%"/> <img src="https://raw.githubusercontent.com/Prabhdeep1701/Prabhdeep1701/output/github-snake-dark.svg" width="100%" alt="snake eating my contributions"/> </div> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --> <div align="center">
+diff
++ open to: backend • security • infra problems that keep you up at night
+- not open to: insecure-by-default anything
 
-`Backend Engineering` &nbsp;·&nbsp; `Web Security` &nbsp;·&nbsp; `Privacy Infrastructure` &nbsp;·&nbsp; `Agentic AI`
+got something hard to break? let's build it. ⚡
 
-**Open to interesting problems. Let's build.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhdeep-singh-313359242/)
-[![Email](https://img.shields.io/badge/prabhdeep1701%40gmail.com-00cc90?style=for-the-badge&logo=gmail&logoColor=black)](mailto:prabhdeep1701@gmail.com)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Prabhdeep1701&color=00cc90&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b060f0,50:00cc90,100:0d1117&height=120&section=footer" width="100%"/> </div>
